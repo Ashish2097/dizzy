@@ -12,6 +12,6 @@
 
 > Type `npm install` to install all the required dependencies.
 
-> Run server by typing `new.js`.
+> Run server by typing `node new.js`.
 
 > Run the server in browser at url "localhost:8080".
